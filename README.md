@@ -29,6 +29,11 @@ language.*
     allocators, GCs and managed data structures such that a change in a GC
     strategy could be as simple as swapping in a different crate and recompiling.
 
+# Code of Conduct
+
+All communication shall be conducted within the framework of the
+[Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html.)
+
 # Legal
 
 The Rust logo used inside the `rust-hosted-langs` logo is
@@ -38,8 +43,8 @@ and distributed under the terms of the Creative Commons Attribution license
 organization logo is under the terms granted as an *unofficial* and
 *non-commercial* entity.
 
-Unless otherwise specified in a `LICENSE.txt` file, all `rust-hosted-langs`
+Unless otherwise specified in a `LICENSE` file, all `rust-hosted-langs`
 content is available under the [Creative Commons Attribution license (CC-BY)](https://creativecommons.org/licenses/by/4.0/)
 
-Unless otherwise specified in a `LICENSE.txt`, copyrights in this organization
+Unless otherwise specified in a `LICENSE`, copyrights in this organization
 are retained by their contributors.
